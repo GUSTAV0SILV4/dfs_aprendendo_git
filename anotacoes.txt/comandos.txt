@@ -1,0 +1,7 @@
+git init - Inicializando um repo Git
+git status - Verificar o status do repo
+git add . Adiciona todos os arquivos no rastreio do Git
+git commit -m - Comentar as modificações
+git push - Enviar para o GitHub dois
+git commit -m - Comentar as modificações
+git push - Enviar para o GitHub
